@@ -14,6 +14,9 @@ namespace RailSystem.Data.Models
         {
             get { return this.Id; }
             set { this.Id = value; }
+			
+			
+			
         }
     }
 }
